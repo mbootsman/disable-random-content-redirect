@@ -1,8 +1,8 @@
 === Disable Random Content Redirect ===
 Contributors: mbootsman
 Tags: random, redirect, rewrite rules, permalinks
-Requires at least: 7.2
-Tested up to: 7.2
+Requires at least: 7.1
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPL-2.0-or-later

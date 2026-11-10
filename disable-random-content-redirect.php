@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/mbootsman/disable-random-content-redirect
  * Description:       Turns off the /random/ content redirect introduced in WordPress 7.2 by filtering wp_enable_random_content_redirect to false.
  * Version:           1.0.0
- * Requires at least: 7.2
+ * Requires at least: 7.1
  * Requires PHP:      7.4
  * Author:            Marcel Bootsman
  * Author URI:        https://marcelbootsman.nl
